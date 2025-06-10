@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MakroCoded/MakroCoded/refs/heads/main/mc_logo.svg" width=200>
-  <h2 align="center">Hi There 👋</h2>
+  <h2 align="center">welcom to my profile</h2>
   <a href="https://u8views.com/github/MakroCoded"><img src="https://u8views.com/api/v1/github/profiles/126889064/views/day-week-month-total-count.svg"></a>
 </p>
 
@@ -18,17 +18,17 @@
 
 ## Programming languages:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=cs,go,js,lua,php,py,ts)
+![C#, Golang, JavaScript, Lua, PHP, Python, Typescript](https://go-skill-icons.vercel.app/api/icons?i=cs,go,js,lua,php,py,ts)
 
 ## Frameworks and tools:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=alpinejs,bootstrap,express,flask,hugo,laravel,sass,tailwind)
+![AlpineJS, Bootstrap, ExpressJS, Flask, Hugo, Laravel, NixOS, SASS, TailwindCSS, Chrome Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=alpinejs,bootstrap,express,flask,hugo,laravel,nixos,sass,tailwind,chromedevtools)
 
 ## Other things:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=blender,figma,sketchup,nixos)
+![Blender, Figma, SketchUp](https://go-skill-icons.vercel.app/api/icons?i=blender,figma,sketchup)
 
 ## Things that i am learning/want to learn/be able to use:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=angular,defold,godot,haskell,k8s,million,neovim,react)
+![AngularJS, Defold, Godot, Haskell, Kubernetes, MillionJS, NeoVim, ReactJS](https://go-skill-icons.vercel.app/api/icons?i=angular,defold,godot,haskell,k8s,million,neovim,react)
 
