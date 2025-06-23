@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MakroCoded/MakroCoded/refs/heads/main/mc_logo.svg" width=200>
+  <img src="https://raw.githubusercontent.com/MakroCoded/MakroCoded/refs/heads/main/logo.svg" width=200>
   <h2 align="center">welcom to my profile</h2>
   <a href="https://u8views.com/github/MakroCoded"><img src="https://u8views.com/api/v1/github/profiles/126889064/views/day-week-month-total-count.svg"></a>
 </p>
