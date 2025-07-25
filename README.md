@@ -23,13 +23,13 @@
 
 ## Frameworks and tools:
 
-![AlpineJS, Bootstrap, ExpressJS, Flask, Hugo, Laravel, NixOS, SASS, TailwindCSS, Chrome Dev Tools](https://go-skill-icons.vercel.app/api/icons?i=alpinejs,bootstrap,express,flask,hugo,laravel,nixos,sass,tailwind,chromedevtools)
+![AlpineJS, Bootstrap, Chrome Dev Tools, Docker, ExpressJS, Flask, Hugo, Laravel, NixOS, SASS, TailwindCSS](https://go-skill-icons.vercel.app/api/icons?i=alpinejs,bootstrap,chromedevtools,docker,express,flask,hugo,laravel,nixos,sass,tailwind)
 
 ## Other things:
 
 ![Blender, Figma, SketchUp](https://go-skill-icons.vercel.app/api/icons?i=blender,figma,sketchup)
 
-## Things that i am learning/want to learn/be able to use:
+## Things that I want to learn & be able to use:
 
-![AngularJS, Defold, Godot, Haskell, Kubernetes, MillionJS, NeoVim, ReactJS](https://go-skill-icons.vercel.app/api/icons?i=angular,defold,godot,haskell,k8s,million,neovim,react)
+![AngularJS, Clojure, Defold, Godot, Haskell, Kubernetes, MillionJS, NeoVim, ReactJS, Unity](https://go-skill-icons.vercel.app/api/icons?i=angular,clojure,defold,godot,haskell,k8s,million,neovim,react,unity)
 
