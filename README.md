@@ -8,6 +8,7 @@
 
 |Project|Description|
 |-|-|
+|[Discord Bot in C](https://github.com/NonsensicalOne/discord-bot-in-c)|A Discord bot that is made with C and `s2n-tls`|
 |[Polytoria-CodeSnippets](https://github.com/MakroCoded/Polytoria-CodeSnippets)|Code snippets for Polytoria.|
 |[all-limiteds](https://github.com/MakroCoded/all-limiteds)|A chart of who owns most limiteds in Polytoria.|
 |[0gram](https://github.com/NonsensicalOne/0gram)|Alternative front-end for Instagram|
